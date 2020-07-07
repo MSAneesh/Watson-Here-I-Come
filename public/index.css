@@ -1,0 +1,11 @@
+body{
+    background-color:orange;
+}
+.one{
+    position: absolute;
+    top: 70px;
+    left:400px;
+    font-size: 100px;
+    color: white;
+    
+}
